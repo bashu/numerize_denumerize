@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "numerize_denumerize"
-version = "0.0.7"
+version = "0.0.8"
 authors = [{ name = "Dheeresh Agarwal", email = "da11@iitbbs.ac.in" }]
 description = "A simple and better version of numerize that also denumerizes: human-friendly numerize (1_234_000 -> 1.23M) and precise denumerize ($1.23M -> 1230000) with large-scale suffix support up to 10^42."
 readme = "README.md"
